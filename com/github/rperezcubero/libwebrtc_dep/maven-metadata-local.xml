@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.rperezcubero</groupId>
+  <artifactId>libwebrtc_dep</artifactId>
+  <versioning>
+    <release>m90</release>
+    <versions>
+      <version>m90</version>
+    </versions>
+    <lastUpdated>20210524084106</lastUpdated>
+  </versioning>
+</metadata>
